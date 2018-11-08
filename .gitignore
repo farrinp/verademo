@@ -1,6 +1,6 @@
 .idea/
 .DS_Store
+./verademo.iml
 target/**
-verademo.iml
-*.iml
-verademo.iml
+
+
