@@ -1,0 +1,1 @@
+cp UserControllerBad.java ../src/main/java/com/veracode/verademo/controller/UserController.java
